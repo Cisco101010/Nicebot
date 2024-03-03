@@ -1,0 +1,2 @@
+# Nicebot
+game-store
